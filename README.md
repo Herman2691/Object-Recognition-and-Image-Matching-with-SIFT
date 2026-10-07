@@ -1,4 +1,4 @@
-# TP1 — Détection et reconnaissance d'objets avec SIFT
+# Reconnaissance d'objets et correspondance d'images avec SIFT
 
 Projet de **vision par ordinateur** consacré à la détection, la localisation et la reconnaissance d'objets à l'aide des descripteurs locaux **SIFT (Scale-Invariant Feature Transform)**.
 
